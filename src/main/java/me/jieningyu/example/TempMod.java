@@ -1,4 +1,4 @@
-package net.fabricmc.example;
+package me.jieningyu.example;
 
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
